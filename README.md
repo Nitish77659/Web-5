@@ -1,7 +1,6 @@
 <html>
   <head>HTML Form</head>
   <body>
-    <div 
     <h2> Login Form</h2>
       <form>
         <label><b>Username: </b><input type="text"/></label><br>
